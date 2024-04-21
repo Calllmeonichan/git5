@@ -27,4 +27,4 @@ cidr 32-6=26 ( 6 car 64 hote vu quon a un sous reseaux de 50 machine au max)
 |   pole admi      | 172.16.1.80/27 |  172.16.1.81    |   172.16.1.110  |   172.16.1.111  |
 |   pole tech      | 172.16.1.112/27 | 172.16.1.113   |   172.16.1.142  |   172.16.1.143  |  
 
-(/26 ici car un cidr de 27 n'est pas suffisant si on exclu celle reseaux et de broadcast)
+(/27 ici car un cidr de 28 n'est pas suffisant si on exclu celle reseaux et de broadcast)
